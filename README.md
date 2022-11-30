@@ -1,4 +1,4 @@
-# Deinfra-TeaClient-Tutorial
+# Deinfra-Tea-Ceremony-Tutorial
 
 ## Contact Me :
 <div align="center">
@@ -11,3 +11,16 @@
 <p align="center">
   <img height="auto" width="auto" src="https://user-images.githubusercontent.com/117473885/204699392-91179431-c1c8-4112-a6f0-53e2863f686f.png">
 </p>
+
+## Persyaratan hardware & software
+
+
+| Erlang Version | Eshell Version | Spesifikasi Hardware | OS | docker version |
+|----------------|----------------|----------------------|----|----------------|
+| v24.3 | 10.4 |4 core, 4gb ram, 50gb ssd| Ubuntu 20.04 / 22.04|latest (20.10.18 as of September 2022)|
+
+### NOTE : 👉🏻👉🏻👉🏻 KHUSUS YANG SUDAH MENDAPATKAN TOKEN DI BOT YANG DAPAT MENGIKUTI ACARA MINUM TEH 👈🏻👈🏻👈🏻
+
+
+
+
